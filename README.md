@@ -1,5 +1,5 @@
 # LocationGuru
-Retail Analytics Prediction test case 
+Retail Analytics Prediction test case given to LocationGuru, ref RJ Metha
 Big  Retailer  is looking for your help in maximizing sales and minimizing returns for their delectable inventory of baked goods. With over 1 million stores across Mexico, the transactional dataset for the Group Inventory Demand competition is huge. 
 
 Accurately predicting each store's demand will make sure customers aren’t staring at empty shelves, while also reducing the amount spent on refunds to store owners with surplus product unfit for sale.
